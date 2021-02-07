@@ -2,7 +2,7 @@
 <p>A criação de um aplicativo mobile para dar auxílio dos jogadores multiplayers onlie de interação e competiticidade.</p>
 <img src="">
 
-<hr>
+<hr> <br>
 <h2>Sobre o aplicativo...</h2>
 <p>O aplicativo Duozada, vem para ajudar os jogadores de jogos multiplayer online para
 encontrarem outros jogadores.</p>
@@ -39,7 +39,8 @@ Crédito aos membros do Projeto:
 
 <hr>
 <h2>Documentação</h2>
-<p>Para ter acesso completo a Documentação do projeto clique <a href="Downloads/Duozada.pdf">aqui.</a></p>
+<p>Para ter acesso completo a Documentação do projeto clique <a href="https://drive.google.com/file/d/1aTZbS0YBQOecufmyb3bAIUYoDaDMsEES/view?usp=sharing">aqui.</a></p>
+<p>Apresentação no PowerPoint do TTC, acesse-o clicando <a href="https://drive.google.com/file/d/1hULb8eFEdxTo4XTDczrdkPIYIDV1OlOE/view?usp=sharing">aqui.</a></p>
 
 <h3>Diagramas</h3>
 <img src="Diagrama/CaseDiagram.PNG">
@@ -54,8 +55,9 @@ pretende gerar valor. Os nove componentes cobrem as quatro áreas
 principais de um negócio: clientes, oferta, infraestrutura e viabilidade
 financeira. O Modelo de Negócios é um esquema para a estratégia ser
 implementado através das estruturas organizacionais dos processos e
-sistemas.”</i> (OSTERWALDER, 2010, p.15).</p>
-<img src="Canvas/Duozada (canvas finalização).pdf">
+sistemas.”</i> (OSTERWALDER, 2010, p.15). <br>
+Se preferir veja o arquivo em pdf, clicando <a href="https://drive.google.com/file/d/1cWiYbHXC9-HB3L_8Y48hrWa90SHUNIHM/view?usp=sharing">aqui.</a></p>
+<img src="Canvas/">
 
 <h3>Wireframe</h3>
 
