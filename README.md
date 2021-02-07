@@ -56,8 +56,7 @@ principais de um negócio: clientes, oferta, infraestrutura e viabilidade
 financeira. O Modelo de Negócios é um esquema para a estratégia ser
 implementado através das estruturas organizacionais dos processos e
 sistemas.”</i> (OSTERWALDER, 2010, p.15). <br>
-Se preferir veja o arquivo em pdf, clicando <a href="https://drive.google.com/file/d/1cWiYbHXC9-HB3L_8Y48hrWa90SHUNIHM/view?usp=sharing">aqui.</a></p>
-<img src="Canvas/">
+Veja o arquivo em pdf, clicando <a href="https://drive.google.com/file/d/1cWiYbHXC9-HB3L_8Y48hrWa90SHUNIHM/view?usp=sharing">aqui.</a></p>
 
 <h3>Wireframe</h3>
 
