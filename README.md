@@ -1,32 +1,34 @@
 <h1>DUOZADA</h1>
+<h2>CRIAÇÃO DE APLICATIVO PARA AUXÍLIO DE JOGADORES
+MULTIPLAYERS ONLINE</h2>
+<p>O aplicativo Duozada, vem para ajudar os jogadores de jogos multiplayer online para
+encontrarem outros jogadores.</p>
+<img src="">
+
+<hr>
+<h2>Sobre o aplicativo...</h2>
+<p>.</p>
+
+<hr>
+<h2>Introdução</h2>
+<p>.</p>
+
+<h3>Por que?</h3>
+<p>Foi analisado que dentro do ambiente virtual, são comuns problemas de relação entre jogadores e com a plataforma, exemplo disso, o desbalanceamento na criação de partidas queé feito automaticamente pela plataforma do jogo (Pareamento - Matching).
+Visando solucionar, este trabalho tem por finalidade a criação de uma plataforma que auxilie os jogadores online na criação de partidas e no desenvolvimento do jogador e da comunidade, competitividade, dado os problemas causados pelo desbalanceamento na criação de partidas automáticas.</p>
+<pre>
+Crédito aos membros do Projeto:
+° BRYAN SALINAS ALVARO,
+° FELIPE CASTRO FERREIRA,
+° JUAN PABLO OLIVEIRA LIMA,
+° PEDRO HENRIQUE PEREIRA RODRIGUES,
+° RYAN CASTRO FERREIRA.
+</pre>
+<b>LinkdIn </b>- https://www.linkedin.com/in/ryan-castro-ferreira/ <br>
+<b>Email </b>- ryancasf@gmail.com <br> <br>
+
+<hr>
+<h2>Documentação</h2>
 <p></p>
-
-<hr><br>
-<h2>Abount this...</h2>
-<p>This Repository focused on the realization of Cases, challenges and applications for specific. To learn (designer) patterns on github.<br>
-The theme is dev-java with different projects in the same repo. However, detailed the processes of each application.</p>
-
-<hr><br>
-<h2>Why?</h2>
-<p>Made to solve (training) programming logic issues.<br>
-Particularity, Develop fragmented problems in individual files in the same Repository.</p>
-By RYAN CASTRO FERREIRA,<br>
-<b style="color: blue;">LinkdIn </b>- https://www.linkedin.com/in/ryan-castro-ferreira/ <br>
-<b style="color: red;">Email </b>- ryancasf@gmail.com <br>
-
-<hr><br>
-<h2>Built details develop on CMD | Prompt</h2>
-<p>Specif things to make it</p>
-<img src="img/ScreenS-InnerScanner-on-CMD.PNG">
-<img src="img/ScreenS-Param-on-CMD.PNG">
-
-<hr><br>
-<h2>Built jPanel</h2>
-<p>Transformation in UML to Work (BD local var)</p>
-<img src="reservaHotelaria/astah/Diagrama de Classes.PNG">
-
-<hr><br>
-<h2>Built Auxiliary class</h2>
-<p>Desenvolviment with a local own bibliotec, class Convert, Input and Output<br>
-Without any import local because of the class use</p>
-<img src="Controle_empresa(ClassesAuxiliares)/Astah/ScreenS-ClasseDiagram.PNG">
+<img src="">
+<img src="">
