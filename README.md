@@ -10,7 +10,7 @@
 <p>O aplicativo Duozada, vem para ajudar os jogadores de jogos multiplayer online para encontrarem outros jogadores.</p>
 
 <h3>Por que?</h3>
-<p>Foi analisado que dentro do ambiente virtual, são comuns problemas de relação entre jogadores e com a plataforma, exemplo disso, o desbalanceamento na criação de partidas que é feito automaticamente pela plataforma do jogo (Pareamento - Matching).
+<p>(Idealiza��o) Foi analisado que dentro do ambiente virtual, são comuns problemas de relação entre jogadores e com a plataforma, exemplo disso, o desbalanceamento na criação de partidas que é feito automaticamente pela plataforma do jogo (Pareamento - Matching).
 Visando solucionar, este trabalho tem por finalidade a criação de uma plataforma que auxilie os jogadores online na criação de partidas e no desenvolvimento do jogador e da comunidade, competitividade, dado os problemas causados pelo desbalanceamento na criação de partidas automáticas.</p>
 
 <h3>Justificativa</h3>
