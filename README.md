@@ -1,6 +1,8 @@
 <h1>DUOZADA</h1>
-<p>A criação de um aplicativo mobile para dar auxílio dos jogadores multiplayers onlie de interação e competiticidade.</p>
+<p>A criação de um aplicativo mobile para dar auxílio dos jogadores multiplayers onlie de interação e competiticidade.</p><br>
+
 <img src="Prints/bgImage.png">
+
 <p>Para ver todos e com mais detalhes clique <a href="https://drive.google.com/drive/folders/19lLdHaKgz9R5O3Z6H8n3G6-OekDtKsU-?usp=sharing">aqui.</a></p>
 
 <hr>
