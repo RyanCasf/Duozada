@@ -62,11 +62,8 @@ Veja o arquivo em pdf, clicando <a href="https://drive.google.com/file/d/1cWiYbH
 <h3>Prototipagem</h3>
 <p>Processo constante de aprendizado com os feedback retornados, dando "vida" a ideia, vão chegar no produto final, com maior coincidência da entrega com a materialização dos testes resultando na diminuição dos riscos na situação real e/ou produção em grande escala.<br>
 <i>"A Prototipação no Design Thinking permite que você incorpore rapidamente as opiniões e insights da versão anterior e leve novamente para testar, bem como permite que você teste a algumas características do seu produto isoladamente."</i> Ricardo Ruffo.<br><br>
-    <img src="wireframe/Login e recuperaç_o de senha.png">
-    <img src="wireframe/Criaç_o perfil, configuraç_o e perfil.png">
-    <img src="wireframe/Criaç_o, notícias e match.png">
-    <img src="wireframe/chat, chat em grupo e criaç_o de notícias.png">
-<hr>
-    <img src="wireframe/ideiaGeralTinder.jpg">
 
-<b><i>*Frisando que sua utilização é para referência.</i></b></p>
+<img src="wireframe/Login e recuperaç_o de senha.png">
+<img src="wireframe/Criaç_o perfil, configuraç_o e perfil.png">
+<img src="wireframe/Criaç_o, notícias e match.png">
+<img src="wireframe/chat, chat em grupo e criaç_o de notícias.png">
