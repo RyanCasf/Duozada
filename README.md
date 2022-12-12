@@ -24,22 +24,21 @@ Crédito a todos os membros do Projeto:
 ° JUAN PABLO OLIVEIRA LIMA,
 ° PEDRO HENRIQUE PEREIRA RODRIGUES,
 ° RYAN CASTRO FERREIRA.
+<br />
+<b style="color: blue;">LinkdIn </b>- <a href="https://www.linkedin.com/in/ryan-castro-ferreira">https://www.linkedin.com/in/ryan-castro-ferreira/</a>
+<b style="color: red;">Email </b>- ryancasf@gmail.com
 </pre>
-<b>LinkdIn </b>- https://www.linkedin.com/in/ryan-castro-ferreira/ <br>
-<b>Email </b>- ryancasf@gmail.com <br> <br>
 
 <p><b>Apresentação e Fontes</b><br>
 Para ter acesso completo a Documentação do projeto clique <a href="https://drive.google.com/file/d/1aTZbS0YBQOecufmyb3bAIUYoDaDMsEES/view?usp=sharing">aqui.</a> <br>
 Apresentação no PowerPoint do TTC, acesse-o clicando <a href="https://drive.google.com/file/d/1hULb8eFEdxTo4XTDczrdkPIYIDV1OlOE/view?usp=sharing">aqui.</a></p>
 
-
 <h3>Diagramas</h3>
 <p>Estrutura de modelagem seguindo os padrões do UML.<br>
 <i>"A Linguagem de Modelagem Unificada (UML) é uma linguagem visual para especificar, construir e documentar os artefatos dos sistemas. A palavra visual na definição de um ponto chave - a UML é a notação da Diagramação dinâmica, de fato, para desenhar ou apresentar figuras relacionadas a softwares."</i>(CRAIG LARMAN. Utilizando UML e patterns: Uma introdução na análise e ao projeto orientados a objetos e ao desenvolvimento iterativo - 3ª edição, 1997, pág. 39)</p>
-<p><img src="Diagrama/CaseDiagram.PNG">
-<img src="Diagrama/ClassDiagram.PNG">
-<img src="Diagrama/diagramTinder.PNG">
-Diagrama de apoio (^ acima ^) do Tinder.</p>
+<p><img src="Diagrama/Case Diagram.PNG">
+<img src="Diagrama/Class Diagram.PNG">
+<img src="Diagrama/Diagram Tinder.PNG">
 
 <h3>Canvas</h3>
 <p><i>Acreditamos que um Modelo de Negócios pode ser melhor descrito com 9 (nove) componentes básicos, que mostram a lógica de como uma organização/estruturação pretende gerar valor. Os 9 componentes cobrem as quatro áreas principais de um business: clientes, oferta, infraestrutura e viabilidade financeira. O Modelo de negócio é um esquema para a estratégia para ser implementado através das estruturas organizacionais dos processos e sistemas.</i> (OSTERWALDER, 2010, p.15). <br>
@@ -53,17 +52,18 @@ Veja o arquivo em pdf, clicando <a href="https://drive.google.com/file/d/1cWiYbH
 <h3>Wireframe</h3>
 <p><i>Wireframe é um guia visual simples para mostrar para você o que um projeto deveria parecer. Sugestões de estruturas de uma página, sem usar muitos gráficos ou textos. Um Wireframe deveria mostrar a estrutura completa do projeto. Wireframes são um ótimo caminho para começar o seu design.</i> (JENNIFER KYRNIN, Lifewire).<br> <br>
 <img src="wireframe/wireframe - recuperar senha, login e criar conta.png">
-<img src="wireframe/Wireframe - Match, chat e criaç_o de perfil.png">
-<img src="wireframe/wireframe - notícias e recuperar senha 2.png">
-<img src="wireframe/Wireframe - Chat em grupo e criaç_o de notícias.png">
-<img src="wireframe/Wireframe - Perfil, escolha jogo e configuraç_o.png">
+<img src="wireframe/Wireframe - Perfil, escolha jogo e configuração.png">
+<img src="wireframe/Wireframe - Match, chat e criação de perfil.png">
+<img src="wireframe/Wireframe - Chat em grupo e criação de notícias.png">
+<img src="wireframe/Wireframe - Notícias e recuperar senha.png">
 </p>
 
 <h3>Prototipagem</h3>
 <p>Processo constante de aprendizado com os feedback retornados, dando "vida" a ideia, vão chegar no produto final, com maior coincidência da entrega com a materialização dos testes resultando na diminuição dos riscos na situação real e/ou produção em grande escala.<br>
 <i>"A Prototipação no Design Thinking permite que você incorpore rapidamente as opiniões e insights da versão anterior e leve novamente para testar, bem como permite que você teste a algumas características do seu produto isoladamente."</i> Ricardo Ruffo.<br><br>
 
-<img src="wireframe/Login e recuperaç_o de senha.png">
-<img src="wireframe/Criaç_o perfil, configuraç_o e perfil.png">
-<img src="wireframe/Criaç_o, notícias e match.png">
-<img src="wireframe/chat, chat em grupo e criaç_o de notícias.png">
+<img src="wireframe/Prototipação - chat, chat em grupo e criação de notícias.png">
+<img src="wireframe/Prototipação - Criação, notícias e match.png">
+<img src="wireframe/Prototipação - Criação perfil, configuração e perfil.png">
+<img src="wireframe/Prototipação - Escolha de jogo.png">
+<img src="wireframe/Prototipação - Login e recuperação de senha.png">
