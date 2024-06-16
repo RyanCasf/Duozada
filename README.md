@@ -24,9 +24,6 @@ Crédito a todos os membros do Projeto:
 ° JUAN PABLO OLIVEIRA LIMA,
 ° PEDRO HENRIQUE PEREIRA RODRIGUES,
 ° RYAN CASTRO FERREIRA.
-
-<b>LinkedIn</b> - <a href="https://www.linkedin.com/in/ryan-castro-ferreira">https://www.linkedin.com/in/ryan-castro-ferreira/</a>
-<b>E-mail</b> - ryancasf@gmail.com
 </pre>
 
 <p><b>Apresentação e Fontes</b><br>
